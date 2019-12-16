@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ramdom-Quote-Machine/static/css/main.d199fa3f.chunk.css",
+    "main.js": "/Ramdom-Quote-Machine/static/js/main.a5fd7133.chunk.js",
+    "main.js.map": "/Ramdom-Quote-Machine/static/js/main.a5fd7133.chunk.js.map",
+    "runtime-main.js": "/Ramdom-Quote-Machine/static/js/runtime-main.37cad3fb.js",
+    "runtime-main.js.map": "/Ramdom-Quote-Machine/static/js/runtime-main.37cad3fb.js.map",
+    "static/js/2.662d7688.chunk.js": "/Ramdom-Quote-Machine/static/js/2.662d7688.chunk.js",
+    "static/js/2.662d7688.chunk.js.map": "/Ramdom-Quote-Machine/static/js/2.662d7688.chunk.js.map",
+    "index.html": "/Ramdom-Quote-Machine/index.html",
+    "precache-manifest.a64eed2570fa2a314ad6d0003e8829ee.js": "/Ramdom-Quote-Machine/precache-manifest.a64eed2570fa2a314ad6d0003e8829ee.js",
+    "service-worker.js": "/Ramdom-Quote-Machine/service-worker.js",
+    "static/css/main.d199fa3f.chunk.css.map": "/Ramdom-Quote-Machine/static/css/main.d199fa3f.chunk.css.map",
+    "static/js/2.662d7688.chunk.js.LICENSE": "/Ramdom-Quote-Machine/static/js/2.662d7688.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37cad3fb.js",
+    "static/js/2.662d7688.chunk.js",
+    "static/css/main.d199fa3f.chunk.css",
+    "static/js/main.a5fd7133.chunk.js"
+  ]
+}
